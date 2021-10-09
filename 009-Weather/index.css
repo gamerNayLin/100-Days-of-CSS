@@ -1333,20 +1333,20 @@ body{
       background: rgba(0, 0, 0, 0);
       box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0);
     }
-    80%{
+    55%{
       background: rgba(0, 0, 0, 0);
       box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0);
     }
-    85%{
+    60%{
         width: 1px;
       background: white;
       box-shadow: 0 0 10px 3px rgba(255, 255, 255, 0.6);
     }
-    90%{
+    65%{
         background: rgba(0, 0, 0, 0);
         box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0);
     }
-    95%{
+    80%{
         width: 2px;
         background: white;
         box-shadow: 0 0 10px 3px rgba(255, 255, 255, 0.6);
